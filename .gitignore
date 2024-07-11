@@ -1,0 +1,10 @@
+# Игнорировать все файлы в директории node_modules/
+node_modules/
+
+
+
+# Игнорировать конкретный файл Demid'sNotes.txt
+Demid'sNotes.txt
+
+
+
